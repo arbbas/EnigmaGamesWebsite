@@ -1,0 +1,16 @@
+tasks:
+  - name: Jekyll
+    command: |
+      cat >>/home/gitpod/.bashrc <<EOF
+      export GEM_HOME=/workspace/.rvm
+      export GEM_PATH=\$GEM_HOME:\$GEM_PATH
+      EOF
+      source /home/gitpod/.bashrc
+      
+      bundle install
+      bundle exec jekyll serve
+
+ports:
+  - port: 4000
+    onOpen: open-preview
+    visibility: private
