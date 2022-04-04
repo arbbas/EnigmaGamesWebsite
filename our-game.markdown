@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Our Game
-permalink: /our-game/
+title: Download Game
+permalink: /DLGame/
 ---
 
-Page with information about your game.
+P# Get The Game
+[Download Mirror 1](https://mega.nz/file/U6AChLbL#0og2PBmGY4tBHEhwKLPnnEyMIEGZioh62aqkph9aIKM)
