@@ -1,7 +1,10 @@
 ---
 layout: page
-title: Our Game
-permalink: /our-game/
+title: Download The Game
+permalink: /DLGame/
 ---
 
-Page with information about your game.
+
+
+# Starship Wars
+[Download Mirror 1](https://mega.nz/file/U6AChLbL#0og2PBmGY4tBHEhwKLPnnEyMIEGZioh62aqkph9aIKM)
